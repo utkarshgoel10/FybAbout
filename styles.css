@@ -1,6 +1,12 @@
 html {
     scroll-behavior: smooth;
   }
+.nav-link {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
 .section-title .section-subtitle{
     margin-bottom: 7px;
     padding-left: 7px;
